@@ -1744,6 +1744,7 @@
 
 			a.special:not(.button):hover:before {
 				background-color: rgba(255, 255, 255, 0.025);
+				font-size: 1.5%;
 			}
 
 			a.special:not(.button):active:before {
@@ -2622,8 +2623,6 @@
 			background-color: rgba(255, 255, 255, 0.075);
 		}
 
-		input[type="submit"].icon:before,
-		input[type="reset"].icon:before,
 		input[type="button"].icon:before,
 		button.icon:before,
 		.button.icon:before {
@@ -2631,8 +2630,6 @@
 			color: rgba(255, 255, 255, 0.35);
 		}
 
-		input[type="submit"].special,
-		input[type="reset"].special,
 		input[type="button"].special,
 		button.special,
 		.button.special {
@@ -2640,32 +2637,25 @@
 			box-shadow: none;
 		}
 
-			input[type="submit"].special:hover,
-			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
 				background-color: #53639e;
 			}
 
-			input[type="submit"].special:active,
-			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
 				background-color: #45558d;
 			}
 
-			input[type="submit"].special.icon:before,
-			input[type="reset"].special.icon:before,
+			
 			input[type="button"].special.icon:before,
 			button.special.icon:before,
 			.button.special.icon:before {
 				color: #7985b0;
 			}
 
-		input[type="submit"].fit,
-		input[type="reset"].fit,
 		input[type="button"].fit,
 		button.fit,
 		.button.fit {
@@ -2674,8 +2664,6 @@
 			width: 100%;
 		}
 
-		input[type="submit"].small,
-		input[type="reset"].small,
 		input[type="button"].small,
 		button.small,
 		.button.small {
