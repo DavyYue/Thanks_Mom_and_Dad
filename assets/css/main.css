@@ -2513,7 +2513,6 @@
 		margin-left: 15%;
 		margin-right: 15%;
 		width: 70%;
-		margin-bottom: 10%;
 		align:center;
 	}
 
@@ -2529,6 +2528,7 @@
 
 		table td {
 			padding: 0.75em 0.75em;
+			padding-bottom: 50px;
 		}
 
 		table th {
