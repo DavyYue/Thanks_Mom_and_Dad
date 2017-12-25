@@ -1,15 +1,14 @@
 # Thank You Page for My Parents
 
-This site highlights how my parents have been there for me throughout my life and can be viewed [here](https://www.davyyue.com/Thanks_Mom_and_Dad/).
+This site highlights how my parents have been there for me throughout my life and can be viewed [here](https://www.davyyue.com/Thanks_Mom_and_Dad/). 
 
 
 Copyright 2016-2018 Davy Yue
 
-# Credits:
-	Images:
+# BUilt With
+	* Images:
 
-		[Dumplings](https://omnivorescookbook.com/wp-content/uploads/2016/09/1608_Pork-Dumplings_003.jpg)
-		
+		* [dumplings](https://omnivorescookbook.com/wp-content/uploads/2016/09/1608_Pork-Dumplings_003.jpg) - image
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
