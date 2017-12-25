@@ -5,11 +5,7 @@ This site highlights how my parents have been there for me throughout my life an
 
 Copyright 2016-2018 Davy Yue
 
-# BUilt With
-	* Images:
-
-		* [dumplings](https://omnivorescookbook.com/wp-content/uploads/2016/09/1608_Pork-Dumplings_003.jpg) - image
-
+# Credits:
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
